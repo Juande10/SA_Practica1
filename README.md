@@ -1,3 +1,7 @@
+# Datos
+Nombre: Juan de Dios Molina Herrera
+Carnet: 201314412
+
 # Practica1
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.5.
