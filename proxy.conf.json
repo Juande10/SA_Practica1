@@ -1,0 +1,7 @@
+{
+    "/*":{
+        "target":"https://api.softwareavanzado.world/administrator/index.php?webserviceClient=administrator&webserviceVersion=1.0.0&option=contact&api=soap",
+        "secure": false,
+        "logLevel": "debug"
+    }
+}
